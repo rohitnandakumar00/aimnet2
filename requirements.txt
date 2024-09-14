@@ -1,4 +1,4 @@
-pytorch >= 2.1
+torch >= 2.1
 opt_einsum
 click
 ignite >= 0.5
